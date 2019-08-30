@@ -14,6 +14,16 @@ This project was created with the following technologies:
 
 -Material UI
 
+Download the project:
+
+- Create a folder
+
+- On the command line or terminal write : 'git init' inside the folder already created
+
+- git remote add origin https://github.com/Kennethbmt95/BucketChallenge.git 
+
+- git pull origin master
+
 
 Initial configuration:
 
