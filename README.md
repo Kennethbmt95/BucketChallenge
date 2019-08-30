@@ -6,21 +6,21 @@ This is my project for the challenge, I tried to make it simple but efficient, t
 
 This project was created with the following technologies:
 
-react
+-react
 
-jest
+-jest
 
-enzyme
+-enzyme
 
-Material UI
+-Material UI
 
 
 Initial configuration:
 
-npm install : to install all the dependencies
+-npm install : to install all the dependencies
 
-npm start: to run the project
+-npm start: to run the project
 
 Run Test:
 
-npm test: to run all the test in the project
+-npm test: to run all the test in the project
